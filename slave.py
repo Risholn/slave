@@ -1,7 +1,7 @@
 from colorama import Fore,Back,Style
 import curses
 
-#init()
+#init() test
 
 
 #Exit
